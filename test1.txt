@@ -1,0 +1,3 @@
+nom : rabat
+Age : 38
+Couleur : noir
